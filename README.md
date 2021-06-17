@@ -22,7 +22,7 @@ Determining how to convey air safety to customers, frequent or new, in the form 
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
 ***
-All should be standardly included.
+Python & Pycharm and Tableau should be downloaded from website, all others should be standardly included.
 ### Collaboration
 ***
 No collaboration can be made on this project.
